@@ -1,0 +1,4 @@
+[
+  {"login": "bricafon", "turno": "DB", "procesos": ["Pick", "PIT", "Pack"]},
+  {"login": "islrica", "turno": "D5", "procesos": ["Pick", "Dock"]}
+]
