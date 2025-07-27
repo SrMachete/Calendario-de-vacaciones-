@@ -1,1 +1,1 @@
-console.log("Calendario funcional cargado correctamente para SrMachete");
+// Aquí va el código de JavaScript con todos los asociados y lógica
